@@ -1,0 +1,13 @@
+{
+  "words":  [
+    {
+      "length": "3",
+      "words_example": ["cat", "bat", "nap", "pen"]
+    },
+
+    {
+      "length": "4",
+      "words_example": ["pain", "fake", "pair"]
+    }
+  ]
+}

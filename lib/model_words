@@ -1,0 +1,8 @@
+
+
+Class words{
+int length;
+List<String> words_example;
+
+
+}
